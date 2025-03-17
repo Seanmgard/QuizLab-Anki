@@ -16,5 +16,3 @@ For more details, see the full [AGPL v3 License](https://www.gnu.org/licenses/ag
 QuizLabAI is a standalone platform and is not affiliated with or endorsed by Anki or AnkiConnect. This integration is provided as a convenience for users who wish to export flashcards.
 
 ---
-
-Let me know if you need additional changes or a **LICENSE** file formatted for your repo! 🚀
